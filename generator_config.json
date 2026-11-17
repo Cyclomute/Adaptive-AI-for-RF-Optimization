@@ -1,0 +1,12 @@
+{
+  "master_seed": 20261103,
+  "n_per_tier": {
+    "Good": 34,
+    "Bad": 33,
+    "Ugly": 33
+  },
+  "p_driving": 0.6,
+  "zero_cap": 0.029,
+  "bw_mhz": 100.0,
+  "n_rb": 273
+}
